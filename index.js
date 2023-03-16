@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAjX5ZFCsVuuwXCwYeelAm-otzN_RPkgSg",
-    authDomain: "projects-88fd7.firebaseapp.com",
-    projectId: "projects-88fd7",
-    storageBucket: "projects-88fd7.appspot.com",
-    messagingSenderId: "899927131329",
-    appId: "1:899927131329:web:1648db50c99c4d32f28040"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 document.getElementById("loginForm").addEventListener("submit",(event)=>{
